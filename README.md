@@ -115,11 +115,13 @@ moodie:8d763385e0476ae208f21bc63956f748-moodie00
 [LICENSE](https://github.com/Muskaans15/Goldman_Sachs_internship/blob/main/LICENSE)
 
 ## Resources:
-● Password cracking explained (techniques described in 2013 still haven’t
-changed) -
-https://arstechnica.com/information-technology/2013/05/how-crackers-makeminced-meat-out-of-your-passwords/
-● Password salting - https://en.wikipedia.org/wiki/Salt_(cryptography)
-● Hash functions - https://en.wikipedia.org/wiki/Cryptographic_hash_function
-● Password cracking tools -
-https://en.wikipedia.org/wiki/Password_cracking#Software
-● Password strength checker - https://howsecureismypassword.net
+
+● [Password cracking explained](https://arstechnica.com/information-technology/2013/05/how-crackers-makeminced-meat-out-of-your-passwords/)
+
+● [Password salting](https://en.wikipedia.org/wiki/Salt_(cryptography))
+
+● [Hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+
+● [Password cracking tools](https://en.wikipedia.org/wiki/Password_cracking#Software)
+
+● [Password strength checker](https://howsecureismypassword.net)
