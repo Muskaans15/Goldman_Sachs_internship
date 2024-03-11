@@ -66,7 +66,8 @@ Name: Muskaan Singh
 B.Computer Applications
 ```
 [OBSERVATIONS](https://github.com/Muskaans15/Goldman_Sachs_internship/blob/main/OBSERVATIONS.txt)
-## Observation
+## Observation:
+```
 Security Algorithms used: 
 experthead:e10adc3949ba59abbe56e057f20f883e – MD5
 interestec:25f9e794323b453885f5181f1b624d0b – MD5
@@ -106,6 +107,7 @@ flamesbria2001:9b3b269ad0a208090309f091b3aba9db-Flamesbrai2001
 oranolio:16ced47d3fc931483e24933665cded6d-Oranolio1994
 spuffyffet:1f5c5683982d7c3814d4d9e6d749b21e-Spuffyffet12
 moodie:8d763385e0476ae208f21bc63956f748-moodie00
+```
 
 `Complete report is Avaliable at`:https://github.com/Muskaans15/Goldman_Sachs_internship/blob/main/Complete_Report.txt
 
