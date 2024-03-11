@@ -68,3 +68,6 @@ B.Computer Applications
 [OBSERVATIONS](https://github.com/Muskaans15/Goldman_Sachs_internship/blob/main/OBSERVATIONS.txt)
 
 `Complete report is Avaliable at`:https://github.com/Muskaans15/Goldman_Sachs_internship/blob/main/Complete_Report.txt
+
+
+[LICENSE](https://github.com/Muskaans15/Goldman_Sachs_internship/blob/main/LICENSE)
