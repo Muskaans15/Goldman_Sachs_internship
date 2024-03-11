@@ -64,3 +64,5 @@ You can include several new things in your password policy. My recommendations a
 Thanking you, 
 Name: Muskaan Singh
 B.Computer Applications
+
+[##OBSERVATIONS](OBSERVATIONS.txt)
